@@ -1,23 +1,23 @@
 import gurobipy as gp
 
-# Crear Modelo
+# Create Model
 m = gp.Model("Ejemplo")
 
 # Variables
 x = m.addVar(name="x")
 y = m.addVar(name="y")
 
-# Restricciones
+# Restriction
 m.addConstr(x + y <= 10, "c1")
 m.addConstr(x - y >= 3, "c2")
 
-# Función objetivo
+# Function Objective
 m.setObjective(2 * x + y, gp.GRB.MAXIMIZE)
 
-# Optimizar
+# Optimize
 m.optimize()
 
-# Resultado
+# Result
 for v in m.getVars():
     print(f"{v.varName} = {v.x}")
 print(f"Obj: {m.objVal}")

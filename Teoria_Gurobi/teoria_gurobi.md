@@ -1,6 +1,6 @@
 ## ¿Qué es Gurobi?
 ---
-Gurobi Optimizer es un solver matemático comercial especializado en resolver problemas de optimización como:
+**Gurobi Optimizer** es un solver matemático comercial especializado en resolver problemas de optimización como:
 * Programación lineal (LP).
 * Programación entera (MILP o MIP).
 * Programación cuadrática (QP/ QCP).

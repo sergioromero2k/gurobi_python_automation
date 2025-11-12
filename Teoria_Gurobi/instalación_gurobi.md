@@ -1,6 +1,5 @@
 ### Cómo descargar Gurobi
-1. 🌐 Ve a la web oficial:
-🔗 https://www.gurobi.com/downloads/
+1. Ve a la web oficial: https://www.gurobi.com/downloads/
 2. Crea una cuenta gratuita de usuario.
 3. Descarga el instalador correspondiente a tu sistema operativo:
 * Windows (.exe)

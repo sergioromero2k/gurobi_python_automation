@@ -9,7 +9,7 @@ print(costos[Trabajador, Tarea])
 for (i, j), valor in costos.items():
     print(i, j, valor)
 
-Trabajadores = ["T1", "T2"]
+trabajadores = ["T6", "T2"]
 Tareas = ["Tarea1", "Tarea2"]
 
 # for i in Trabajadores:

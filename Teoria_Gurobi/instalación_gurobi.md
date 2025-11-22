@@ -11,7 +11,7 @@
 
 Tienes varias opciones:
 #### Licencia Académica (gratuita)
-Si eres estudiante o investigador:
+Si eres estudiante o investigador:adaadad
 * Es gratis para uso académico.
 * Solo necesitas una dirección de correo institucional (.edu, .univ, etc.)
 
